@@ -11,7 +11,7 @@ Clone the repository using the command:
 
 bash
 Copy code
-git clone https://github.com/your_username/login-application.git
+git clone https://github.com/habtuchelsea1000/login-application.git
 Change into the project directory using the command:
 
 The application should now be accessible at http://127.0.0.1:8000/
